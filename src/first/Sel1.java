@@ -19,7 +19,6 @@ public class Sel1
 {
  public static void main(String[] args) throws InterruptedException
  {
-
 	   ChromeOptions o = new ChromeOptions();
 	   o.addArguments("--disable-notifications");
 	   
